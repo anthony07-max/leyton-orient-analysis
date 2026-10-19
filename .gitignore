@@ -1,0 +1,14 @@
+# Raw football-data.co.uk CSVs: recreate with  python src/download_data.py
+data/
+
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

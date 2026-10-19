@@ -1,0 +1,335 @@
+{
+  "table_date": "2026-10-17",
+  "orient_pos": 9,
+  "orient_pts": 14,
+  "orient_p": 10,
+  "orient_wdl": [
+    4,
+    2,
+    4
+  ],
+  "orient_gf_ga": [
+    15,
+    11
+  ],
+  "xg_corr_shots": 0.68,
+  "xg_corr_sot": 0.64,
+  "league_goals_27": 294,
+  "league_xg_27": 280.7,
+  "xg_games": 9,
+  "xg_last_date": "2026-10-10",
+  "o_gf_xg": [
+    13,
+    8.21
+  ],
+  "o_ga_xga": [
+    11,
+    14.58
+  ],
+  "o_xgd_pg": -0.71,
+  "o_shots_pg": [
+    10.3,
+    15.2
+  ],
+  "o_bromley": [
+    5,
+    1.67
+  ],
+  "rank_sf": 22,
+  "rank_sa": 19,
+  "rank_xgf": 21,
+  "rank_xga": 21,
+  "rank_cf": 23,
+  "rank_ca": 20,
+  "rank_xg_per_shot": 20,
+  "o_xgd_rank": 23,
+  "o_corners_pg": [
+    3.67,
+    6.78
+  ],
+  "o_xg_per_shot": [
+    0.088,
+    0.106
+  ],
+  "lg_xg_per_shot": 0.104,
+  "o_home": [
+    6,
+    6,
+    7,
+    10
+  ],
+  "o_away": [
+    4,
+    8,
+    8,
+    1
+  ],
+  "o_pts_xpts": [
+    11,
+    8.2,
+    11.0
+  ],
+  "o_xpts_rank": 23,
+  "o_luck_rank": 5,
+  "n_team_seasons_early": 215,
+  "n_team_seasons_mkt": 167,
+  "early_corr": {
+    "Save rate (1 - GA/SoT against)": 0.1,
+    "Finishing (goals per SoT)": 0.2,
+    "Points per game": 0.45,
+    "Shot share": 0.49,
+    "Shots-on-target share": 0.49,
+    "Goal difference per game": 0.51,
+    "Betting-market expected points": 0.59
+  },
+  "persist": {
+    "Shot share": 0.51,
+    "Shots-on-target share": 0.47,
+    "Finishing (goals per SoT)": 0.08,
+    "Save rate (1 - GA/SoT against)": 0.16
+  },
+  "n_persist": 136,
+  "profile": {
+    "2023/24": {
+      "Pos": 12.0,
+      "P": 46.0,
+      "Pts/game": 1.413,
+      "Shots for": 11.87,
+      "Shots against": 10.543,
+      "SoT for": 4.043,
+      "SoT against": 3.913,
+      "SoT share": 0.508,
+      "Goals per SoT": 0.285,
+      "Save rate": 0.694,
+      "Corners for": 5.565,
+      "Corners against": 4.826,
+      "Market xPts/game": 1.348
+    },
+    "2024/25": {
+      "Pos": 6.0,
+      "P": 46.0,
+      "Pts/game": 1.696,
+      "Shots for": 11.261,
+      "Shots against": 10.543,
+      "SoT for": 4.217,
+      "SoT against": 3.717,
+      "SoT share": 0.532,
+      "Goals per SoT": 0.371,
+      "Save rate": 0.719,
+      "Corners for": 5.217,
+      "Corners against": 4.217,
+      "Market xPts/game": 1.452
+    },
+    "2025/26": {
+      "Pos": 20.0,
+      "P": 46.0,
+      "Pts/game": 1.13,
+      "Shots for": 11.152,
+      "Shots against": 12.109,
+      "SoT for": 3.696,
+      "SoT against": 4.543,
+      "SoT share": 0.449,
+      "Goals per SoT": 0.347,
+      "Save rate": 0.66,
+      "Corners for": 4.761,
+      "Corners against": 4.87,
+      "Market xPts/game": 1.301
+    },
+    "2026/27": {
+      "Pos": 9.0,
+      "P": 9.0,
+      "Pts/game": 1.222,
+      "Shots for": 10.333,
+      "Shots against": 15.222,
+      "SoT for": 3.667,
+      "SoT against": 4.556,
+      "SoT share": 0.446,
+      "Goals per SoT": 0.394,
+      "Save rate": 0.732,
+      "Corners for": 3.667,
+      "Corners against": 6.778,
+      "Market xPts/game": 1.221
+    },
+    "Top-six average 2017/18-2025/26": {
+      "Pos": null,
+      "P": null,
+      "Pts/game": 1.854,
+      "Shots for": 13.078,
+      "Shots against": 10.205,
+      "SoT for": 4.691,
+      "SoT against": 3.406,
+      "SoT share": 0.58,
+      "Goals per SoT": 0.349,
+      "Save rate": 0.705,
+      "Corners for": 5.631,
+      "Corners against": 4.489,
+      "Market xPts/game": 1.646
+    },
+    "League average 2017/18-2025/26": {
+      "Pos": null,
+      "P": null,
+      "Pts/game": 1.372,
+      "Shots for": 11.81,
+      "Shots against": 11.812,
+      "SoT for": 4.065,
+      "SoT against": 4.065,
+      "SoT share": 0.5,
+      "Goals per SoT": 0.32,
+      "Save rate": 0.68,
+      "Corners for": 5.134,
+      "Corners against": 5.135,
+      "Market xPts/game": 1.366
+    }
+  },
+  "reg": {
+    "n": 215,
+    "r2": 0.674,
+    "b_sotf": 0.248,
+    "b_sota": -0.269,
+    "ci_sotf": [
+      0.202,
+      0.295
+    ],
+    "ci_sota": [
+      -0.313,
+      -0.224
+    ],
+    "r2_full": 0.913
+  },
+  "lever": {
+    "sotf": 3.67,
+    "sota": 4.56,
+    "top6_sotf": 4.69,
+    "top6_sota": 3.41,
+    "pts46_sotf": 11.7,
+    "pts46_sota": 14.2,
+    "per1_sot_46": 11.4,
+    "per1_sota_46": 12.4,
+    "ppg_pred_now": 1.14,
+    "pts46_pred_now": 52.5
+  },
+  "gamestate": {
+    "level_ppg": {
+      "2023/24": 1.55,
+      "2024/25": 1.28,
+      "2025/26": 0.87,
+      "2026/27": 1.0
+    },
+    "level_n": {
+      "2023/24": 22,
+      "2024/25": 18,
+      "2025/26": 23,
+      "2026/27": 5
+    },
+    "league_level_ppg": 1.32,
+    "ahead_ppg": {
+      "2023/24": 2.08,
+      "2024/25": 2.67,
+      "2025/26": 2.5,
+      "2026/27": 3.0
+    }
+  },
+  "val": {
+    "Base rates (2024/25 H/D/A)": {
+      "log loss": 1.067,
+      "RPS": 0.228,
+      "accuracy": 0.4601
+    },
+    "Dixon-Coles (scores only)": {
+      "log loss": 1.0405,
+      "RPS": 0.2184,
+      "accuracy": 0.4855
+    },
+    "Betting market (closing avg)": {
+      "log loss": 1.0153,
+      "RPS": 0.2097,
+      "accuracy": 0.5091
+    }
+  },
+  "val_n": 552,
+  "dc_rank": 14,
+  "dc_orient": [
+    1.29,
+    1.34
+  ],
+  "dc_home_adv": 1.218,
+  "dc_rho": -0.021,
+  "sim": {
+    "mean_pts": 62.694,
+    "p10_pts": 53.0,
+    "p90_pts": 72.0,
+    "mean_pos": 12.468,
+    "p_top2": 0.012,
+    "p_top6": 0.103,
+    "p_bottom4": 0.042
+  },
+  "sim_median_pos": 13,
+  "sim_pos_p10_p90": [
+    6,
+    18
+  ],
+  "next": [
+    {
+      "date": "2026-10-21",
+      "fixture": "Reading v Leyton Orient",
+      "Orient win": 0.259,
+      "draw": 0.24,
+      "Orient loss": 0.501,
+      "model xG home": 1.754,
+      "model xG away": 1.2
+    },
+    {
+      "date": "2026-10-24",
+      "fixture": "Burton v Leyton Orient",
+      "Orient win": 0.364,
+      "draw": 0.27,
+      "Orient loss": 0.366,
+      "model xG home": 1.295,
+      "model xG away": 1.292
+    },
+    {
+      "date": "2026-10-31",
+      "fixture": "Leyton Orient v Cambridge",
+      "Orient win": 0.4,
+      "draw": 0.284,
+      "Orient loss": 0.316,
+      "model xG home": 1.262,
+      "model xG away": 1.09
+    }
+  ],
+  "opp_prof": {
+    "Reading": {
+      "P": 9,
+      "xgf": 2.049,
+      "xga": 0.971,
+      "sf": 16.556,
+      "sa": 11.0,
+      "xg_per_shot": 0.124,
+      "cf": 5.667,
+      "ca": 3.778,
+      "xgd_rank": 2
+    },
+    "Burton": {
+      "P": 10,
+      "xgf": 0.829,
+      "xga": 1.513,
+      "sf": 10.1,
+      "sa": 13.1,
+      "xg_per_shot": 0.082,
+      "cf": 3.8,
+      "ca": 5.4,
+      "xgd_rank": 22
+    },
+    "Cambridge": {
+      "P": 9,
+      "xgf": 1.128,
+      "xga": 1.42,
+      "sf": 13.667,
+      "sa": 11.889,
+      "xg_per_shot": 0.083,
+      "cf": 7.0,
+      "ca": 4.333,
+      "xgd_rank": 18
+    }
+  }
+}
